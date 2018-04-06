@@ -1,0 +1,21 @@
+{
+  "name": "test-vision-api",
+  "version": "1.0.0",
+  "description": "https://cloud.google.com/vision/docs/reference/libraries#client-libraries-install-nodejs",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonycw/TestVisionAPI.git"
+  },
+  "author": "Jason Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonycw/TestVisionAPI/issues"
+  },
+  "homepage": "https://github.com/jasonycw/TestVisionAPI#readme"
+}
