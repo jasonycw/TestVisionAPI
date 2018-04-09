@@ -58,3 +58,5 @@ typings/
 .env
 
 Testing Vision API-*.json
+Testing Vision API.json
+result/
